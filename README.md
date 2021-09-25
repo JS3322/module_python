@@ -8,7 +8,7 @@ Python Module List
 
 ---
 ### Log
-20210904 init calculator
+20210924 init calculator
 
 ---
 *name : JS  
