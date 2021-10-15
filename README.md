@@ -1,16 +1,27 @@
 ```
-Python Module List
+Module List
 ```
+
 ---
 ### Package Architecture
-####calculator
-1. calculator/numpy.py | calculator test
-2. search_selenium/search_selenium.py | selenium test
+#### Module Name | Module Explanation | Route
+####
+1. calculator | calculator test| calculator
+2. selenium | search_selenium | selenium test
 
 ---
 ### Log
 20210924 init calculator
+
 20210926 init selenium
+
+--
+## Stay in touch
+- Designer - [JS KIM](https://cleancode.kr)
+
+--
+## License
+[MIT licensed](LICENSE)
 
 ---
 *name : JS  

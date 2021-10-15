@@ -1,3 +1,14 @@
+'''
+ * @Process: complete
+ * @Project_Name: module
+ * @Package_Name: calculator
+ * @Made_By: JS
+ * @The_creation_time: --
+ * @File_Name: person.py
+ * @contents: -
+'''
+
+
 class Person:    # 클래스
     def __init__(self, name, age, address):
         self.name = name
