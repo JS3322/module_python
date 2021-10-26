@@ -1,5 +1,6 @@
 ```
 Module List
+Python 3.7.8
 ```
 
 ---
@@ -26,4 +27,4 @@ Module List
 ---
 *name : JS  
 *page : cleancode.kr    
-*email : bada@ganada.kr
+*email : js@cleancode.kr
