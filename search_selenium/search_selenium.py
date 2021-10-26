@@ -5,6 +5,7 @@
  * @Made_By: JS
  * @The_creation_time: --
  * @File_Name: search_selenium.py
+ * @Version : Python 3.7.8
  * @contents: -
 '''
 from selenium import webdriver

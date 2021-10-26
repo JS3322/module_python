@@ -1,6 +1,5 @@
 ```
 Module List
-Python 3.7.8
 ```
 
 ---
