@@ -7,11 +7,11 @@ Module List
 - [ ] -
 
 --
-## Stay in touch
+### Stay in touch
 - Developer - [JS KIM](https://cleancode.kr)
 
 --
-## License
+### License
 [MIT licensed](LICENSE)
 
 ---

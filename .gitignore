@@ -132,3 +132,4 @@ dmypy.json
 README_private.md
 .DS_STORE
 .idea
+_temp/
